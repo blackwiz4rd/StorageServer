@@ -19,6 +19,7 @@ On a local network visit:
 
 On the server visit:
 ```http://localhost:8080```
+
 ===========================================
 
 This directory contains the source code of my bachelor's degree final exam.
