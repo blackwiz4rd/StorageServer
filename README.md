@@ -15,12 +15,12 @@ To start the server run:
 In ```src/server/media/``` static video content is stored.
 By default the script lets you access the server from any ip on the network for easy testing on multiple clients.
 
-# Access the server
+# How to open your content in media/
 On a local network visit:
-```http://my-ip:8080```
+```http://my-ip:8080/media/image.png```
 
 On the server visit:
-```http://localhost:8080```
+```http://localhost:8080/media/image.png```
 
 # Implementation
 Refer to https://docs.djangoproject.com/en/2.0/ref/views/ to see how implementation was done.
