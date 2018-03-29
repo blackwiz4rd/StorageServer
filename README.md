@@ -7,6 +7,9 @@ To install dependencies run
 ```sh setup.sh```
 
 # Run the server
+First of all check your ip-address and edit
+```sh start_server.sh```
+accordingly.</br>
 To start the server run:
 ```sh start_server.sh```</br>
 In ```src/server/media/``` static video content is stored.
