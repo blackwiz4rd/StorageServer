@@ -1,8 +1,7 @@
 # DASHServer
-A simple python server in django was created to allow developers to test their algorithms using provided media files.
+A simple python server in django was created to allow developers to test their algorithms using provided media files for https://github.com/blackwiz4rd/DASHPlayer, but it can be used for many other purposes.
 
 # Dependencies
-
 To install dependencies run
 ```chmod +x setup.sh```
 ```sh setup.sh```
@@ -20,6 +19,8 @@ On a local network visit:
 On the server visit:
 ```http://localhost:8080```
 
+# Implementation
+Refer to https://docs.djangoproject.com/en/2.0/ref/views/ to see how implementation was done.
 ===========================================
 
 This directory contains the source code of my bachelor's degree final exam.
