@@ -21,6 +21,7 @@ On the server visit:
 
 # Implementation
 Refer to https://docs.djangoproject.com/en/2.0/ref/views/ to see how implementation was done.
+
 ===========================================
 
 This directory contains the source code of my bachelor's degree final exam.
