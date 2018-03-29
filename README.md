@@ -3,12 +3,12 @@ A simple python server in django was created to allow developers to test their a
 
 # Dependencies
 To install dependencies run
-```chmod +x setup.sh```
+```chmod +x setup.sh```</br>
 ```sh setup.sh```
 
 # Run the server
 To start the server run:
-```sh start_server.sh```
+```sh start_server.sh```</br>
 In ```src/server/media/``` static video content is stored.
 By default the script lets you access the server from any ip on the network for easy testing on multiple clients.
 
